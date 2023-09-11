@@ -6,6 +6,6 @@ Estou estudando no alura.
 
 Utilizo esse site para desenvolver meus projetos.
 
-Caso queira falar comigo 
+### Caso queira falar comigo 
 
 rafael.castilho.queiroz@escola.pr.gov.br
